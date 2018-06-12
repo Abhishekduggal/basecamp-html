@@ -1,0 +1,29 @@
+body {
+    background-color: lightblue;
+}
+.navigation { 
+    background-color: rgba(219, 170, 155, 0.781);
+    float: right;
+}
+h1, h2 {
+    font-family: verdana;
+    font-size: 60px;
+    color: rgb(92, 20, 20);
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    
+}
+
+#footText { 
+    background-color: yellow;
+}
+
+img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
